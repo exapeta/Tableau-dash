@@ -2,9 +2,9 @@ TABLEAU PORTFOLIO ANALYSIS
 
 Global Candy Sales
 
-Dashboard link: https://public.tableau.com/app/profile/tab.leau3188/viz/GlobalCandySales_17258703826870/GlobalSales
+Dashboard link: [https://public.tableau.com/app/profile/tab.leau3188/viz/GlobalCandySales_17258703826870/GlobalSales](https://public.tableau.com/app/profile/tab.leau3188/viz/shared/CPN4PN9X7)
 
-These visualisations relate to the Excel project with the same name here: https://github.com/exapeta/Excel - the visualisation shows global candy sales across the globe in a map view highlighting areas with higher sales on a colour scale. Next to the map is a bubble chart which displays the sales for each Brand in total. If you select a country on the map, the bubble chart will update to reflect the Brand sales for the selected country. This is a work in progress, and can be improved upon by a more consistent format and layout, with clearer instructions for the user.
+These visualisations relate to the Excel project with the same name here: https://github.com/exapeta/Excel - the visualisation shows global candy sales across the world in a map view highlighting areas with higher sales on a colour scale. Next to the map is a bubble chart which displays the sales for each Brand in total. If you select a country on the map, the bubble chart will update to reflect the Brand sales for the selected country. This is a work in progress, and can be improved upon by a more consistent format and layout - for example the dashboard primarily uses a green colour scheme, which may not be suitable for some users with vision impairments. Additional changes such as clearer instructions for the user, as well as formatting the dashboard for multiple devices, would help bring it to life and make insights more identifiable. The dashboard makes use Tableau features such as calculated fields, and linked filters to keep the dashboard fluid and dynamic.
 
 --
 
